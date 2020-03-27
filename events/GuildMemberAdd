@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 module.exports = (client, member)=> {
 	member.send(
 	`Welcome to the server! Please make sure you read the rules entirely before proceeding`
 	)
+=======
+module.exports = (client, member)=> {
+	member.send(
+	`Welcome to the server! Please make sure you read the rules entirely before proceeding`
+	)
+>>>>>>> 1f4c56b... synching
 }
